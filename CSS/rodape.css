@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+footer{
+    background-color: #FF8C00;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 40px 100px 50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.medias-sociais{
+    margin-bottom: 20px;
+}
+.medias-sociais i{
+    font-size: 28px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 17px;
+}
+
