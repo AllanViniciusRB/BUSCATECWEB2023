@@ -16,45 +16,46 @@
 
 <body>
 
+
     <div class="bg-home">
         <header>
             <nav class="header-content">
 
-                <!--Fundo-->
-                <div class="fundo">
-                    <img src="/assets/fundo.svg" width="100%" >
-                </div>
-
-                <!--Logo-->
-                <div class="logos">
-                    <img src="/assets/logo.svg">
-                </div>
-                <div class="user">
-                    <img src="/assets/user.png">
-                </div>
-                <!--botãos-->
-                <nav>
-                    <div class="links">  
-                        <ul class="nav-itens">
-                            <li>Planos</li>
-                            <li>Serviços</li>
-                            <li>Afiliar-se</li>
-                            <li>Entrar/Cadastre-se</li>
-                        </ul>
+                    <!--Fundo-->
+                    <div class="fundo">
+                       <img src="/assets/fundo.svg" width="100%">
                     </div>
-                </nav>
-                <div class="pesquisar">
-                    <div class="container">
-                        <div class="input-wrapper">
-                            <i class="fa fa-search"></i>
-                            <input />
+                    
+                    <!--Logo-->
+                    <div class="logos">
+                        <img src="/assets/logo.svg">
+                    </div>
+                    <div class="user">
+                        <img src="/assets/user.png">
+                    </div>
+                    <!--botãos-->
+                    <nav>
+                        <div class="links">  
+                            <ul class="nav-itens">
+                                <li>Planos</li>
+                                <li>Serviços</li>
+                                <li>Afiliar-se</li>
+                                <li>Entrar/Cadastre-se</li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <div class="pesquisar">
+                        <div class="container">
+                            <div class="input-wrapper">
+                                <i class="fa fa-search"></i>
+                                <input />
+                            </div>
                         </div>
                     </div>
-                </div>
-            </nav>
-           
-        </header>
-
-    </div>
+                </nav>
+                
+            </header>
+            
+        </div>
 </body>
 </html>
